@@ -1,0 +1,21 @@
+{
+  "tokens": [
+    {
+      "token": "MTUxMDM0NjAyMjAzNDA3OTk1NQ.GM6Vmr.1YI8IVA6oXv40nXLsr3tQoOPopQhGzgMbGw10A",
+      "label": "User_1",
+      "enabled": true
+    }
+  ],
+  "guildId": "1497788104524955719",
+  "channelId": "1497797876066025703",
+  "settings": {
+    "selfMute": false,
+    "selfDeaf": false,
+    "autoReconnect": true,
+    "delayMin": 500,
+    "delayMax": 500,
+    "customStatus": "",
+    "customStatusType": "LISTENING",
+    "webPort": 3000
+  }
+}
